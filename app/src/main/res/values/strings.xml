@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentActivity</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+</resources>
